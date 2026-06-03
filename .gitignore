@@ -1,41 +1,32 @@
-# --- JavaScript / Node.js ---
+# --- Web3 / Solidity / Crypto ---
+# Hardhat & Truffle artifacts
+artifacts/
+cache/
+typechain/
+typechain-types/
+coverage/
+coverage.json
+.openzeppelin/
+
+# Foundry (Forge) artifacts
+out/
+.forge/
+broadcast/
+
+# General Blockchain/Web3 keys (CRITICAL SAFETY)
+.env
+.env.secret
+.env.local
+*.key
+wallet.json
+*secret.json
+
+# --- JavaScript / Node.js (Crucial for Web3 Frontends) ---
 node_modules/
 /npm-debug.log*
 /yarn-error.log*
 /yarn-debug.log*
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-.expo/
 dist/
-
-# --- Java ---
-*.class
-*.log
-*.jar
-*.war
-*.ear
-*.nar
-# Build directories
-build/
-target/
-.gradle/
-.builtBinaries/
-
-# --- Python ---
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-.venv
-venv/
-ENV/
-
-# --- Rust ---
-/target/
-**/*.rs.bk
 
 # --- Go ---
 *.exe
@@ -46,6 +37,29 @@ ENV/
 *.test
 *.out
 
+# --- Rust ---
+/target/
+**/*.rs.bk
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv
+venv/
+ENV/
+
+# --- Java ---
+*.class
+*.log
+*.jar
+*.war
+*.ear
+build/
+target/
+.gradle/
+
 # --- C / C++ ---
 *.o
 *.obj
@@ -55,10 +69,6 @@ ENV/
 # --- IDEs and OS ---
 .vscode/
 .idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
 .DS_Store
 Thumbs.db
 
