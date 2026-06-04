@@ -72,3 +72,5 @@ target/
 .DS_Store
 Thumbs.db
 
+# Ignore inner repository settings
+**/.git/
