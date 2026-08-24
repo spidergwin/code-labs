@@ -74,3 +74,6 @@ Thumbs.db
 
 # Ignore inner repository settings
 **/.git/
+
+# Other Files.
+SUBMODULES.md
