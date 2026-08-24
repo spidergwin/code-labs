@@ -1,3 +1,6 @@
 [submodule "python/codecrafters-shell-python"]
 	path = python/codecrafters-shell-python
 	url = https://github.com/spidergwin/codecrafters-shell-python.git
+[submodule "go/go-bank"]
+	path = go/go-bank
+	url = https://github.com/spidergwin/go-bank.git
