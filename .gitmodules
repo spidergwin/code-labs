@@ -4,3 +4,27 @@
 [submodule "go/go-bank"]
 	path = go/go-bank
 	url = https://github.com/spidergwin/go-bank.git
+[submodule "FrontendMentor/url-shortening-api-master"]
+	path = FrontendMentor/url-shortening-api-master
+	url = https://github.com/spidergwin/url-shortening-api-master.git
+[submodule "FrontendMentor/manage-landing-page"]
+	path = FrontendMentor/manage-landing-page
+	url = https://github.com/spidergwin/manage-landing-page.git
+[submodule "FrontendMentor/Bookmark-landing-page"]
+	path = FrontendMentor/Bookmark-landing-page
+	url = https://github.com/spidergwin/Bookmark-landing-page.git
+[submodule "FrontendMentor/product-list-with-cart"]
+	path = FrontendMentor/product-list-with-cart
+	url = https://github.com/spidergwin/product-list-with-cart.git
+[submodule "FrontendMentor/card-details-form"]
+	path = FrontendMentor/card-details-form
+	url = https://github.com/spidergwin/card-details-form.git
+[submodule "FrontendMentor/fr_MentorNewsletter"]
+	path = FrontendMentor/fr_MentorNewsletter
+	url = https://github.com/spidergwin/fr_MentorNewsletter.git
+[submodule "FrontendMentor/frontendMentorNewsHome"]
+	path = FrontendMentor/frontendMentorNewsHome
+	url = https://github.com/spidergwin/frontendMentorNewsHome.git
+[submodule "FrontendMentor/Frontend-mentor-qr_code"]
+	path = FrontendMentor/Frontend-mentor-qr_code
+	url = https://github.com/spidergwin/Frontend-mentor-qr_code.git
